@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-09-30_0126",
+    "name": "BASE",
     "currentPage": "index.html",
     "theme": {
       "name": "businessm4",
@@ -37,7 +37,9 @@
     "siteFonts": [],
     "uniqCompNum": 23,
     "versionPublish": "4.10.15",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/likelikelikeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-128x134.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
