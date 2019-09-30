@@ -777,6 +777,11 @@ section.lazy-placeholder:after {
 .cid-rDvtx8SHaP .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
+@media (min-width: 992px) {
+  .cid-rDvtx8SHaP .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(100vh - 3.8rem - 1rem);
+  }
+}
 .cid-rDvtx8SHaP .navbar.collapsed .dropdown-menu {
   background: transparent !important;
 }
